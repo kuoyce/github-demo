@@ -1,3 +1,5 @@
 Test git quick start demo
 
 tried to do a sample clone -- 10 jan 2023
+
+xfer to sourcetree
